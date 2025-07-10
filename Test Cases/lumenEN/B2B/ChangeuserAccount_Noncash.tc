@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ChangeuserAccount_Noncash</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fca5a3a3-0442-4ae8-acea-682d7d8f465e</testCaseGuid>
+</TestCaseEntity>

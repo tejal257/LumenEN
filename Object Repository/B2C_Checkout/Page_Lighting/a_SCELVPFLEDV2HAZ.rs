@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SCELVPFLEDV2HAZ</name>
+   <tag></tag>
+   <elementGuidId>bd5fc7cd-8ec5-437a-99f8-1a8d09df7e65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.addToCart-form:nth-child(6) .sub-title a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' addToCart-form ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' sub-title ')]//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;scelvpfledv2haz&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c3b940f7-34db-4d2d-b1f4-f03045c952b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/products/18-lighting/02-fixtures/03-hazardous-location-vapor-tight-fixtures/01-hazardous-location-fixtures/p-U0NFTFZQRkxFRFYySEFa-scelvpfledv2haz-ipex-277121-sceptalight-15-w-led-lvpf-heavy-duty-light-fixture</value>
+      <webElementGuid>66f26318-3e39-4e66-84f7-8566c56eba35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SCELVPFLEDV2HAZ</value>
+      <webElementGuid>d3288d36-558b-4256-b79b-fbd54b5845e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>SCELVPFLEDV2HAZ</value>
+      <webElementGuid>f9bd7d01-7d12-4d5a-9dd4-675f129ee850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-68e8f5ad5022b5d2525489c72881134c</value>
+      <webElementGuid>30115a59-0ed3-4684-aafa-f1eef65a0501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' addToCart-form ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' sub-title ')]//a</value>
+      <webElementGuid>40209b0a-5cad-43ff-b794-de43583c5a32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' addToCart-form ') and (position() = 6)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' sub-title ')]//a</value>
+      <webElementGuid>a216b40e-bd49-495d-8a08-5a92a350ae27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/products/18-lighting/02-fixtures/03-hazardous-location-vapor-tight-fixtures/01-hazardous-location-fixtures/p-U0NFTFZQRkxFRFYySEFa-scelvpfledv2haz-ipex-277121-sceptalight-15-w-led-lvpf-heavy-duty-light-fixture' and (text() = 'SCELVPFLEDV2HAZ' or . = 'SCELVPFLEDV2HAZ')]</value>
+      <webElementGuid>2b0a91a0-8956-46d4-94ed-da9732303248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

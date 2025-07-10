@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pickup</name>
+   <tag></tag>
+   <elementGuidId>d78ca125-c60e-47a1-9d03-98f3b5f973ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-e2e-testing-id=&quot;cart-pickup&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-e2e-testing-id = 'cart-pickup']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#shippingMethodForm span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85fa348b-6e11-4322-aa49-545c43fd7593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e-testing-id</name>
+      <type>Main</type>
+      <value>cart-pickup</value>
+      <webElementGuid>6ee36700-cf27-49b6-a074-1aaa2e0b9d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-radio</value>
+      <webElementGuid>ac90a77e-7810-419c-807f-83cacbb75f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pickup</value>
+      <webElementGuid>dadb1035-fd4c-486d-8d66-fdca1895b30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cb9ab1e8f8988e3f8bf3c66c153ee59f</value>
+      <webElementGuid>df5a0a2b-af80-48ad-8128-38116c6d6d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-e2e-testing-id = 'cart-pickup']</value>
+      <webElementGuid>7234657c-d0ba-4d27-97e5-d52a281d947f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-e2e-testing-id = 'cart-pickup']</value>
+      <webElementGuid>bb02fb6c-0f13-48db-9af8-781e8f2be64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pickup' or . = 'Pickup')]</value>
+      <webElementGuid>a7c0b549-b1cb-4752-9c07-8f515898ce00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

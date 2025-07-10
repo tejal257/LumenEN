@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to cart</name>
+   <tag></tag>
+   <elementGuidId>101996d7-0136-4b28-ba00-9ce41fcb7875</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.add-cart.add-cart-solo.fn-prevent-validate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>081aa895-e2f3-404a-ac4b-2aeade6f091f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e-testing-id</name>
+      <type>Main</type>
+      <value>product-snippet-atc</value>
+      <webElementGuid>1d4998bd-1519-443c-9180-743b580b04cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0c107304-60f3-4037-b6e8-489185c0e571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-cart add-cart-solo fn-prevent-validate</value>
+      <webElementGuid>f33a50f8-b85c-4f83-acf3-347942146c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>e7ee64c3-63db-451d-996e-68742e29c7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;container-fluid products-listing&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;listing&quot;]/div[@class=&quot;col-9 right&quot;]/div[@class=&quot;products form-container&quot;]/div[@class=&quot;product-display&quot;]/div[@class=&quot;page&quot;]/form[@class=&quot;addToCart-form&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;col add-to-cart&quot;]/button[@class=&quot;add-cart add-cart-solo fn-prevent-validate&quot;]</value>
+      <webElementGuid>8a6a6d72-8496-4349-beaf-59fc0f23db3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[11]</value>
+      <webElementGuid>8bbbc3fd-b8e4-4043-b217-12de3d96602b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainer']/div/div[3]/section/div[2]/div[3]/div/div[3]/form/div/div[6]/button</value>
+      <webElementGuid>42ab4c77-61e7-4f92-9078-ff6047d02128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The quantity must be between 1 and 180,000'])[1]/following::button[2]</value>
+      <webElementGuid>9958215d-c5d0-4b2a-a65d-2cb0ec067adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EA'])[1]/following::button[2]</value>
+      <webElementGuid>33e6b2d3-67be-41d7-aa11-043601e2cd83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='feratdr2'])[1]/preceding::button[1]</value>
+      <webElementGuid>5f7cc374-70f6-4d1b-b891-60cc3821e341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MERSEN ATDR2 Amp-Trap® 2000 North American Power Fuse Time-Delay Class CC 2 A, 600 VAC'])[1]/preceding::button[1]</value>
+      <webElementGuid>a59bb913-7b98-4e20-b218-3c8d97a49fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>354531aa-141b-4f48-a724-a7a3c8dbf7dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>9b631c0b-b4d6-475f-ad25-c746c67b4fc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

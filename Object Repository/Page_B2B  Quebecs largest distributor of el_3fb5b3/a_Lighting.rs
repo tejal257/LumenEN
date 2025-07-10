@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lighting</name>
+   <tag></tag>
+   <elementGuidId>5ec2bd6e-9926-47aa-87d2-19285bca15e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and contains(concat(' ', normalize-space(@class), ' '), ' dropdown ') and (position() = 4)]//label//a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-item.dropdown:nth-child(4) label a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Lighting &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67dffbe9-e6c5-4899-9c8d-afe500774f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/products/18-lighting</value>
+      <webElementGuid>dd2cb1df-09ac-4230-a362-ebe67801f430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lighting</value>
+      <webElementGuid>d64a8185-e944-4660-9cec-eeb99623cd4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Lighting</value>
+      <webElementGuid>20b048e3-56a8-43bf-aa7d-d5c29a3350ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-202e6e53ece9e38b8cb1742e183d5607</value>
+      <webElementGuid>7f8d7020-5506-4839-8e96-8356e24f8e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and contains(concat(' ', normalize-space(@class), ' '), ' dropdown ') and (position() = 4)]//label//a</value>
+      <webElementGuid>4aac52fe-0fb3-48b4-8671-1ee608e4965f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and contains(concat(' ', normalize-space(@class), ' '), ' dropdown ') and (position() = 4)]//label//a</value>
+      <webElementGuid>f97229db-30bc-4c79-ac2f-83b78a4027c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/products/18-lighting' and (text() = 'Lighting' or . = 'Lighting')]</value>
+      <webElementGuid>61057143-3d6e-4c6d-9a9c-f4958f19b262</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

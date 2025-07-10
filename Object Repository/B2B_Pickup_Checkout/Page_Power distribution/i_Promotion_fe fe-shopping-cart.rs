@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Promotion_fe fe-shopping-cart</name>
+   <tag></tag>
+   <elementGuidId>cc0bf871-a497-418b-8c7d-909b96d6cb68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='minicart']/a/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fe.fe-shopping-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; (2)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3c68cc4b-5de8-4904-9c55-9862146cfd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>visible: initialized</value>
+      <webElementGuid>a5e217c5-1d0c-47f2-ad27-d5f25e6c5215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fe fe-shopping-cart</value>
+      <webElementGuid>85eeff57-62b3-42ce-bcc0-f0f8410f64b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;minicart&quot;)/a[1]/i[@class=&quot;fe fe-shopping-cart&quot;]</value>
+      <webElementGuid>60590528-8540-4c1e-b1d0-b3be39436971</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='minicart']/a/i[2]</value>
+      <webElementGuid>b11ac2ef-017b-4d43-bb09-d874e28639dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/i[2]</value>
+      <webElementGuid>28a34bae-b68c-4904-954d-0ed7cee49337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

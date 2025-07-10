@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Terms and Conditions of use_fe fe-chevron-up</name>
+   <tag></tag>
+   <elementGuidId>f9d76151-5dfe-4015-a58c-1d41544c6162</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page-content']/footer/div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fe.fe-chevron-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1b2b40ff-55ad-4d19-99f3-29ec7cce7641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fe fe-chevron-up</value>
+      <webElementGuid>797f2d5f-2b67-4970-8067-eb9bf7ad4a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/footer[1]/div[@class=&quot;copyright&quot;]/a[@class=&quot;smooth-scroll back-to-top&quot;]/i[@class=&quot;fe fe-chevron-up&quot;]</value>
+      <webElementGuid>b018e1b9-413c-45f1-9d78-b57bd5556bff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page-content']/footer/div[2]/a/i</value>
+      <webElementGuid>fd5459db-10bf-4dad-b006-7498303f18bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/a/i</value>
+      <webElementGuid>8dc3aa55-8bdf-4942-811e-74d35d01083a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

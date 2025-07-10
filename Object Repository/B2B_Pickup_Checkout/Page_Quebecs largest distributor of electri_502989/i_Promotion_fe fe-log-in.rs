@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Promotion_fe fe-log-in</name>
+   <tag></tag>
+   <elementGuidId>8591f0ce-6e66-49c8-939a-39a8cfb0862b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page-content']/header/div[2]/div/div/div[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fe.fe-log-in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>550f37c3-94db-4832-b9e0-8355c7478432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fe fe-log-in</value>
+      <webElementGuid>7c3c1dd1-e55e-4b72-b614-63f436b472ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/header[@class=&quot;loggedout&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;container d-flex justify-content-between&quot;]/div[@class=&quot;search col-lg-6&quot;]/div[@class=&quot;login icon&quot;]/a[1]/i[@class=&quot;fe fe-log-in&quot;]</value>
+      <webElementGuid>6dcd9e3a-030e-4f18-92fe-02f9376384f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page-content']/header/div[2]/div/div/div[5]/a/i</value>
+      <webElementGuid>37532811-0d8b-48e2-90ed-0a52d02e1d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/i</value>
+      <webElementGuid>f33db049-55f9-4c1e-8bbe-9673e1c7612b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

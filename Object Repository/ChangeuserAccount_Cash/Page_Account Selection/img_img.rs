@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img</name>
+   <tag></tag>
+   <elementGuidId>1f0bc2d9-a8bc-4c29-8766-7de6d1190bde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.details:nth-child(20) [src=&quot;\/images\/arrow\.jpg&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' details ') and (position() = 20)]//*[@src = '/images/arrow.jpg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(20) > div:nth-child(5) > button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a4efea59-baf7-48d9-941d-8fe78910f8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/arrow.jpg</value>
+      <webElementGuid>1f5deaaa-d893-4369-befe-289cbd88003e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b329b563-9813-4099-ada8-ed6f260143d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e85200a56422265ada5dc297dfe194ba</value>
+      <webElementGuid>5c4c602e-b509-4071-95b7-f385d2c1a8e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' details ') and (position() = 20)]//*[@src = '/images/arrow.jpg']</value>
+      <webElementGuid>cc83bdf6-13cc-4829-9361-7b91a5fb5ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' details ') and (position() = 20)]//*[@src = '/images/arrow.jpg']</value>
+      <webElementGuid>7da141ed-ee94-4aca-ab01-dbfc8b7eba02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/arrow.jpg' and (text() = 'img' or . = 'img')]</value>
+      <webElementGuid>272e5f78-922c-4be2-9766-b2630f697944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

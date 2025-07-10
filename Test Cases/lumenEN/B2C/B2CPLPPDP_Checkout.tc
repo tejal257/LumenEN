@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>B2CPLPPDP_Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00b02b8e-da39-4d6d-b11a-69853d4c73ee</testCaseGuid>
+</TestCaseEntity>

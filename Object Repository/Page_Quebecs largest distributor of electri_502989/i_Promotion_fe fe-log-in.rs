@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Promotion_fe fe-log-in</name>
+   <tag></tag>
+   <elementGuidId>f40e2430-e49e-4c55-b7cc-dcedd8a8f928</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='page-content']/header/div[2]/div/div/div[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fe.fe-log-in</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;page-content&quot;)/header[@class=&quot;loggedout&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;container d-flex justify-content-between&quot;]/div[@class=&quot;search col-lg-6&quot;]/div[@class=&quot;login icon&quot;]/a[1]/i[@class=&quot;fe fe-log-in&quot;][count(. | //*[@class = 'fe fe-log-in']) = count(//*[@class = 'fe fe-log-in'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>93aebe7b-9f1e-47bd-beb1-f0cec50ef105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fe fe-log-in</value>
+      <webElementGuid>dfa42560-d339-4ed4-accb-fcd53582ebce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/header[@class=&quot;loggedout&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;container d-flex justify-content-between&quot;]/div[@class=&quot;search col-lg-6&quot;]/div[@class=&quot;login icon&quot;]/a[1]/i[@class=&quot;fe fe-log-in&quot;]</value>
+      <webElementGuid>f87c96dc-a4a4-4726-ac22-75a89d2fbe26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page-content']/header/div[2]/div/div/div[5]/a/i</value>
+      <webElementGuid>c6bd8514-316f-404c-9c22-8e670c13ebfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/i</value>
+      <webElementGuid>536b0553-efaf-4a55-811b-f668f5b86e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
