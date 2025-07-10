@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LOGOUT</name>
+   <tag></tag>
+   <elementGuidId>1c2e2f06-109e-4d52-8213-5f0213a638be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.roll-out [href=&quot;\/en\/account\/logout&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' roll-out ')]//*[@href = '/en/account/logout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c527a88f-bd9c-4f20-b594-a0b021d6bb62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/account/logout</value>
+      <webElementGuid>78cfe84d-b7b6-45af-bb61-34b5e68ce414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LOGOUT</value>
+      <webElementGuid>af4466af-f232-41a1-bc55-1ed50cbfa530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>LOGOUT</value>
+      <webElementGuid>cce86321-698c-4332-8299-0b4a04e2939f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3c67a3dcae602e8e11961b4156e5115f</value>
+      <webElementGuid>4f8616b3-62ec-411c-9241-549cdc422a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' roll-out ')]//*[@href = '/en/account/logout']</value>
+      <webElementGuid>a1c9dce2-725f-45c3-8ab1-1da859d2ab9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' roll-out ')]//*[@href = '/en/account/logout']</value>
+      <webElementGuid>529d9a6a-819e-4448-a2fa-2aec075ac2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/account/logout' and (text() = 'LOGOUT' or . = 'LOGOUT')]</value>
+      <webElementGuid>c1d44ab7-cd0c-46a9-b014-d79d9577aad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

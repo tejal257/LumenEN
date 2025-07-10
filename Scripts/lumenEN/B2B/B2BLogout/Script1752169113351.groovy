@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.click(findTestObject('Object Repository/Page_Quebecs largest distributor of electri_502989/button_Accept All'))
+
+CustomKeywords.'MyKeywords.B2Blogin'()
+
+WebUI.doubleClick(findTestObject('Object Repository/B2BLogout/Page_B2B  Quebecs largest distributor of el_3fb5b3/i_fe fe-user'))
+
+WebUI.mouseOver(findTestObject('Object Repository/B2BLogout/Page_B2B  Quebecs largest distributor of el_3fb5b3/div_My Account'))
+
+WebUI.click(findTestObject('Object Repository/B2BLogout/Page_B2B  Quebecs largest distributor of el_3fb5b3/a_LOGOUT'))
+

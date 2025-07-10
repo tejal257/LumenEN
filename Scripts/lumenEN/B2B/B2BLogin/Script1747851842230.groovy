@@ -31,5 +31,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input__Passw
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_Uncheck if using a public device_login'))
 
-WebUI.closeBrowser()
-
