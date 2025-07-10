@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_length</name>
+   <tag></tag>
+   <elementGuidId>97aa4961-556a-4aeb-897c-66e52fbc78b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-bind=&quot;numeric\,\ value\:\ length\,\ css\:\ \{\ disabled\:\ isDisable\,\ \'cable-error\'\:\ lengthInvalid\,\ \'input-validation-error\'\:\ lengthWarning\ \}\,\ disable\:\ isDisable&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @title = 'length' and (text() = 'length' or . = 'length')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-bind = 'numeric, value: length, css: { disabled: isDisable, 'cable-error': lengthInvalid, 'input-validation-error': lengthWarning }, disable: isDisable']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9686f371-f0ba-4048-846b-1f90b2a77956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>ab5e8b5d-76f7-4fb7-a2b6-24af49e1aa0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c6f2035f-d462-41d5-8fad-5a5310551616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>length</value>
+      <webElementGuid>7cfbf60f-ebe4-41e1-ab97-71c9d91b3c12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>numeric, value: length, css: { disabled: isDisable, 'cable-error': lengthInvalid, 'input-validation-error': lengthWarning }, disable: isDisable</value>
+      <webElementGuid>0e22c458-721c-461a-856d-b9acc3f3da22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>2bed777f-6fcc-4697-8bfd-ed228f3b4b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>length</value>
+      <webElementGuid>64ff0770-d7e0-4f9b-b74b-265763d8fa3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6f156eb50359adbc42650462e6bf502c</value>
+      <webElementGuid>6ff98c32-200b-4115-b7b5-d10f2c8d6388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-bind = 'numeric, value: length, css: { disabled: isDisable, 'cable-error': lengthInvalid, 'input-validation-error': lengthWarning }, disable: isDisable']</value>
+      <webElementGuid>e8f81e40-0151-4134-befd-8b13914d4c0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-bind = 'numeric, value: length, css: { disabled: isDisable, 'cable-error': lengthInvalid, 'input-validation-error': lengthWarning }, disable: isDisable']</value>
+      <webElementGuid>bf0363ac-6f7b-4f87-b432-48a7c68eaf09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @title = 'length' and (text() = 'length' or . = 'length')]</value>
+      <webElementGuid>2432b912-171f-4311-bfa7-5f48256694b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

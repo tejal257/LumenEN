@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Review Order</name>
+   <tag></tag>
+   <elementGuidId>2f0032f5-0108-459a-82f0-5cadc87af18b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ShippingBillingButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'ShippingBillingButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>948050aa-84a4-48bc-9230-15dfcf06682e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e-testing-id</name>
+      <type>Main</type>
+      <value>checkout-review-btn</value>
+      <webElementGuid>1076dcca-8eb1-429e-b595-8a3197f97147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ShippingBillingButton</value>
+      <webElementGuid>5bce0198-756e-4862-ac6d-c6c4be4232f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit-btn checkout</value>
+      <webElementGuid>da3cbb0a-7a60-4888-84f3-50ec315b8e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73134003-d202-4418-8bd1-3d2c1b35f357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Review Order</value>
+      <webElementGuid>2917570b-b059-489c-acaf-b632013162b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Review Order</value>
+      <webElementGuid>2a629893-ce76-49dc-86c9-255ac86c5068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review Order</value>
+      <webElementGuid>94a64b63-210a-40d0-845b-a12cd27cd539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-015283758ecef4e668cdf733dd92f925</value>
+      <webElementGuid>b98b6439-0081-4640-b09d-c23d9a1f0039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'ShippingBillingButton']</value>
+      <webElementGuid>76f4e3f8-b31a-410c-a4fc-b501e5ff8d27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'ShippingBillingButton']</value>
+      <webElementGuid>33b1ec94-a44a-44aa-9fc6-a0656e1373e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'ShippingBillingButton' and @type = 'button' and @alt = 'Review Order' and (text() = 'Review Order' or . = 'Review Order')]</value>
+      <webElementGuid>bfcd886f-b7f0-4c97-addc-90b79eb9df61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delivery</name>
+   <tag></tag>
+   <elementGuidId>ac85a044-c4b5-4a4a-ac46-af185ce5e678</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-e2e-testing-id=&quot;cart-delivery&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-e2e-testing-id = 'cart-delivery']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58cfa41f-a192-4707-9585-cd7e54390a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e-testing-id</name>
+      <type>Main</type>
+      <value>cart-delivery</value>
+      <webElementGuid>3dc2cbd4-f53a-44e2-a8f0-bf57b02efba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-radio</value>
+      <webElementGuid>53ba2966-bd0b-4112-bab8-7690d53f9abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery</value>
+      <webElementGuid>48a5976a-3ca3-46ba-9370-34b5e0a138c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-511dfff11b759f1a714201a86d5bc977</value>
+      <webElementGuid>fe01fc70-eecf-4fcb-b68d-5883eadaf80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-e2e-testing-id = 'cart-delivery']</value>
+      <webElementGuid>301f9829-b41e-4171-88bb-3f9c5d45d7b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-e2e-testing-id = 'cart-delivery']</value>
+      <webElementGuid>cd88008e-a0bf-49a5-85d3-f1e2e0f1d1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delivery' or . = 'Delivery')]</value>
+      <webElementGuid>6c438136-89ea-4a4d-8692-d4fc2c0afb34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

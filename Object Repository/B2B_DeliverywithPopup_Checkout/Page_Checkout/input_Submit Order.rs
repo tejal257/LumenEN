@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Submit Order</name>
+   <tag></tag>
+   <elementGuidId>f2f257d0-b179-4120-8b86-70f6e2eb25f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#summary-submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'summary-submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ba474f82-f796-4022-ab90-d536a18cdbd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e-testing-id</name>
+      <type>Main</type>
+      <value>checkout-submit-btn</value>
+      <webElementGuid>ec6bfda8-bef7-4018-9357-78dc368c1664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>summary-submit</value>
+      <webElementGuid>d280192c-85d4-460e-9244-569ed9ae3abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit-btn checkout</value>
+      <webElementGuid>f410f406-8996-46f1-a834-b943dc5af909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c589e9f5-b59c-42d4-826e-17f6e07142a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Submit Order</value>
+      <webElementGuid>54c3776e-4cf5-4f28-a17a-004ab2d3c9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Submit Order</value>
+      <webElementGuid>cd914c87-a34e-4124-a4e6-d4247c30b37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Order</value>
+      <webElementGuid>f4b46892-8e29-46a8-87af-f9d9a0db1f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f40d63d09f027c8de71f2d746928b65e</value>
+      <webElementGuid>c9663020-f271-4689-9d83-e8c4dec4c150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'summary-submit']</value>
+      <webElementGuid>80554fa7-09bc-4fe2-a0a0-20485c5ff3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'summary-submit']</value>
+      <webElementGuid>96ad61dd-f35c-4700-a5f7-dfa632717d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'summary-submit' and @type = 'submit' and @alt = 'Submit Order' and (text() = 'Submit Order' or . = 'Submit Order')]</value>
+      <webElementGuid>b62cd288-9eee-43d7-b8d6-311ffa89dd29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
